@@ -195,7 +195,7 @@ bike_rentals['cnt'].hist(bins=20)
 
 
 
-![png]images/output_5_1.png)
+![png]./images/output_5_1.png)
 
 
 
