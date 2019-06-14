@@ -207,7 +207,7 @@ bike_rentals.corr().sort_values(by='cnt', ascending=False)[['cnt']]
 
 
 <div>
-<style scoped>
+<style>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
